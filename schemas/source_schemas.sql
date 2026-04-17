@@ -29,4 +29,3 @@ CREATE TABLE raw_data.payments (
     amount DECIMAL(10,2),
     payment_date TIMESTAMP
 );
-
